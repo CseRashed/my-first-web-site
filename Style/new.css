@@ -11,13 +11,40 @@ h2{
     text-overflow: 20px 4px 4px;
 }
 
-button{
-    color: blueviolet;
-    text-shadow: 5px 5px 5px blueviolet;
-}
+
 .ur{
 text-align: center;
 }
 input{
     color: royalblue;
+}
+div{
+    border-right: 100px;
+    
+}
+.eat{
+    border: solid 2px purple;
+}
+.rice{
+    border: solid 2px purple;
+    text-shadow: 1px 1px 1px  purple;
+}
+.name{
+    border: solid 5ps peru;
+}
+div{
+    border:solid 5px  ;
+    margin: 50%;
+    margin-top: 15%;
+    margin-bottom: 60%;
+    margin-left: 25%;
+    margin-right: 40%;
+    box-shadow: 10px 10px 5px aquamarine;
+    background-color: blanchedalmond;
+    
+}
+.roll{
+    color: blue;
+    border: solid 2px royalblue;
+    background-color: lightcoral;
 }
