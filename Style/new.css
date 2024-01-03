@@ -1,6 +1,23 @@
 h1{
     color: blueviolet;
     text-align: center;
-    text-shadow: 5px 5px 5px;
+    text-shadow: 5px 5px 5px yellow;
     border: 20px solid;
+    background-color: aquamarine;
+}
+h2{
+    color: coral;
+    text-align: center;
+    text-overflow: 20px 4px 4px;
+}
+
+button{
+    color: blueviolet;
+    text-shadow: 5px 5px 5px blueviolet;
+}
+.ur{
+text-align: center;
+}
+input{
+    color: royalblue;
 }
