@@ -1,7 +1,7 @@
-/* *{
+*{
     margin: 2px;
     padding: 2px;
-} */
+}
 
 h1{
     color: blueviolet;
@@ -45,7 +45,7 @@ div{
     margin-left: 25%;
     margin-right: 50%;
     box-shadow: 7px 7px 25px 7px rgb(6, 72, 102) ;
-    background-color: blanchedalmond;
+    background-color: rgb(101, 162, 241);
     
 }
 .roll{
